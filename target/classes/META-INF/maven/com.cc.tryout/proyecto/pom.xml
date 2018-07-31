@@ -47,12 +47,17 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
+<<<<<<< HEAD
+=======
+			<version>5.1.46</version>
+>>>>>>> 832c4d996ab916d28f5adcf3d6dd3daae990123c
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+<<<<<<< HEAD
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
@@ -62,6 +67,8 @@
 			<artifactId>jstl</artifactId>
 			<scope>provided</scope>
 		</dependency>
+=======
+>>>>>>> 832c4d996ab916d28f5adcf3d6dd3daae990123c
 	</dependencies>
 
 	<build>

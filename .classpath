@@ -6,7 +6,11 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry excluding="**|WEB-INF/|WEB-INF/" kind="src" output="target/classes" path="src/main/resources">
+=======
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+>>>>>>> 832c4d996ab916d28f5adcf3d6dd3daae990123c
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
